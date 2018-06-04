@@ -1,21 +1,24 @@
 menu:
     Blog: /
+    Twitter: https://twitter.com/ryanral_ph
+    GitHub: https://github.com/ryanralph
+    Keybase: https://keybase.io/ryanralph
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
-    Rss: /atom.xml
+    # Rss: /atom.xml
 
-favicon: /favicon.png
-logo: /favicon.png
+language: en
+
+favicon: favicon.ico
+logo: //www.gravatar.com/avatar/79178899751f1701e50ad5ac9ff386c4?s=200
 
 # Comment
 # e.g disqus: seansun
-disqus:
-duoshuo:
+disqus: ryanralph
+# duoshuo:
 
 # Analytics
-# google-analytics:
-# ga: UA-xxxxxxxx-x
+google-analytics:
+ga: UA-61359637-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2013
