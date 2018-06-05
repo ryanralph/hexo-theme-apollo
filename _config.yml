@@ -1,9 +1,11 @@
 menu:
     Blog: /
+    # About: /about-me/
     Twitter: https://twitter.com/ryanral_ph
     GitHub: https://github.com/ryanralph
     Keybase: https://keybase.io/ryanralph
-    Archive: /archives/
+    # Archive: /archives/
+    Contact: /contact/
     # Rss: /atom.xml
 
 language: en
