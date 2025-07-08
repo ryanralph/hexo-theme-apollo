@@ -1,11 +1,13 @@
 menu:
     Blog: /
-    # About: /about-me/
-    Twitter: https://twitter.com/ryanral_ph
-    GitHub: https://github.com/ryanralph
-    Keybase: https://keybase.io/ryanralph
-    # Archive: /archives/
-    Contact: /contact/
+    About: /about-me/
+    # Twitter: https://twitter.com/ryanral_ph
+    Linkedin: https://www.linkedin.com/in/rralph/
+    # GitHub: https://github.com/ryanralph
+    HarnessLogic: https://harnesslogic.com
+    # Keybase: https://keybase.io/ryanralph
+    Archive: /archives/
+    Contact: mailto:blog@ryanralph.com
     # Rss: /atom.xml
 
 language: en
@@ -20,7 +22,7 @@ disqus: ryanralph
 
 # Analytics
 google-analytics:
-ga: UA-61359637-1
+ga: G-R5BM2X0K10
 
 # Copyright Infomation
 startyear: 2013
