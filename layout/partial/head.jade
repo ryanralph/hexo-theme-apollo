@@ -1,3 +1,14 @@
+//- Analytics tracking
+- var ga = theme.ga
+if ga
+  script(async src="https://www.googletagmanager.com/gtag/js?id=" + ga)
+  script.
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '!{ga}');
+
+
 meta(charset="utf-8")
 meta(name="X-UA-Compatible", content="IE=edge")
 
@@ -13,4 +24,3 @@ link(rel="stylesheet", href=url_for("css/apollo.css"))
 
 - var xml = config.url + '/atom.xml'
     link(rel="search", type="application/opensearchdescription+xml", href=xml, title=config.title)
-    
